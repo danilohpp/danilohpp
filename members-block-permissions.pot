@@ -46,8 +46,7 @@ msgid "Mensagem de erro"
 msgstr ""
 
 #: src/Editor.php:104
-msgid ""
-Opcionalmente, exiba uma mensagem de erro para usuários que não podem ver este bloqueio.
+msgid "Opcionalmente, exiba uma mensagem de erro para usuários que não podem ver este bloqueio."
 msgstr ""
 
 #: src/Editor.php:108
@@ -75,8 +74,7 @@ msgid "desconectado"
 msgstr ""
 
 #: src/Editor.php:128
-msgid ""
-Sua conta de usuário não tem acesso para atribuir permissões a este bloqueio.
+msgid "Sua conta de usuário não tem acesso para atribuir permissões a este bloqueio."
 msgstr ""
 
 #: src/Integration.php:49
@@ -100,8 +98,7 @@ msgid "https://themehybrid.com/plugins/members-block-permissions"
 msgstr ""
 
 #. Description of the plugin/theme
-msgid ""
-"Permite que os proprietários de sites mostrem ou ocultem bloqueios com base no status do usuário, função ou"
+msgid "Permite que os proprietários de sites mostrem ou ocultem bloqueios com base no status do usuário, função ou"
 "capacidade no front-end do site."
 msgstr ""
 
